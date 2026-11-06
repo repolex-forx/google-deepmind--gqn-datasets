@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "gqn-datasets",
+  "versions": [
+    {
+      "commit": "cf2ff94768988ef98c56949d1f29af0d6ca09b7c",
+      "parsed_at": "2026-11-06T08:19:48.282478+00:00",
+      "filetree": "filetree/cf2ff94768988ef98c56949d1f29af0d6ca09b7c.nq.gz",
+      "blobs": [
+        "blob/8a4c3dd1d65a8ffa7010d5536518b8857d5c7bd0.nq.gz",
+        "blob/df0cd1eab3b253905b7faabf2e48d1b0cad97001.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/c980350f8fc35cbde435c83412fb225335af7638.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
