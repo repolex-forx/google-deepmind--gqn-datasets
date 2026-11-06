@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "gqn-datasets",
+  "versions": [
+    {
+      "commit": "cf2ff94768988ef98c56949d1f29af0d6ca09b7c",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:22:28.820384+00:00"
+    }
+  ]
+}
